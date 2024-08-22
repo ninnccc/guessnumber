@@ -25,12 +25,12 @@ section{
     justify-content: center;
     text-align: center;
     position: relative; 
-    left: 60%;
-    transform: translate(-60%);
+left: 50%;
+    transform: translate(-50%);
 }
 
 a{
-    width: 292px;
+    width: 564px;
     height: 104px;
     margin-top: 230px;
     padding-top: 84px;
