@@ -23,9 +23,7 @@ section{
     align-items: center;
     justify-content: center;
     text-align: center;
-    position: relative; 
-    left: 50%;
-    transform: translate(-50%);
+    position: relative;
 }
 
 a{
